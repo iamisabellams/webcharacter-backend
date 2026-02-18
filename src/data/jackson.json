@@ -1,0 +1,19 @@
+{
+  "historia": "Cresceu nas ruas de uma cidade decadente...",
+  "personalidade": "Frio, estratégico, extremamente observador.",
+  "ficha": {
+    "poder": 2,
+    "projeção": 2,
+    "vontade": 2,
+    "PV": "20/20",
+    "PS": "14/14",
+    "Poder": {
+        "nome": "Vigia Noturno.",
+        "descricao": "Um vigilante das ruas, treinado nas artes do combate furtivo e preparação. Sua mente analítica processa cada detalhe, e seu cinto de utilidades tem uma ferramenta para cada problema.",
+        "poder1": "Projétil Dentado: O Vigia saca sua pistola modificada em um movimento fluido e dispara projéteis dentados que rasgam a carne ao entrar e sair, causando sangramento intenso. Dano: 1d10.",
+        "poder2": "Golpe Furtivo: O Vigia aproxima-se em silêncio e desfere um golpe de artes marciais preciso no ponto exato que faz o inimigo largar sua arma, que voa para longe. Dano: 1d12 + e desarma o alvo por 1 turno.",
+        "passiva1": "Mente Analítica: Estudando um inimigo, aprende seus padrões. +2 em rolagens de acerto contra o mesmo inimigo após o primeiro turno.",
+        "passiva2": "Cinto de Utilidades:  Seu cinto contém itens para toda situação. Uma vez por cena, podesacar um item comum não letal (corda, spray de gás, lanternas) sem ter declarado antes."
+    }
+  }
+}
